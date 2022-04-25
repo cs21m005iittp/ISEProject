@@ -9,7 +9,7 @@ Steps followed:
 5.Calculating accuracy of our model
 ```
 Analysis results of our model:
-For testing accuracy of our model use Test data file store it in "processed_reviews\TestData\" folder
+For testing accuracy of our model use SampleTest.csv file store it in "processed_reviews\TestData\" folder
 Accuracy:
 ```
               precision    recall  f1-score   support
