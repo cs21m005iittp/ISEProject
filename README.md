@@ -36,7 +36,3 @@ For reviews analysis,classification and statistical view of data run  "python Un
   i.check your PWD where you run above command, goto "processed_reviews\" folder where you find App wise review classification and predicted TAGS for each review
   ii.statistical analysis of each App based on their user reviews in folder "processed_reviews\Analysis_figures\"
 
-
-
-
-
