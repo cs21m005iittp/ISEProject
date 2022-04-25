@@ -8,7 +8,6 @@ Steps followed:
 4.Based on TAGs performing statistical analysis on overall Games app performance
 5.Calculating accuracy of our model
 
-
 Analysis results of our model:
 For testing accuracy of our model use Test data file store it in "processed_reviews\TestData\" folder
 Accuracy:
@@ -31,11 +30,9 @@ How to run project?
 prerequisites:
 1.Python Installed on machine
 
-
-
-1.For scrapping play store review data run "python PlayStoreDataScrappingAndCleaning.py"
+For scrapping play store review data run "python PlayStoreDataScrappingAndCleaning.py"
   i.check your PWD where you run above command, goto "reviews\" folder where you find App wise review data excelsheet 
-2.For reviews analysis,classification and statistical view of data run  "python Unsupervised_TagLearning_by_reviews.py"
+For reviews analysis,classification and statistical view of data run  "python Unsupervised_TagLearning_by_reviews.py"
   i.check your PWD where you run above command, goto "processed_reviews\" folder where you find App wise review classification and predicted TAGS for each review
   ii.statistical analysis of each App based on their user reviews in folder "processed_reviews\Analysis_figures\"
 
